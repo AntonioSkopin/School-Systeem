@@ -1,0 +1,27 @@
+body,html {
+    height: 100%;
+}
+
+/* Start top text styling */
+.top-text {
+    text-align: center;
+    margin-top: 5rem;
+}
+/* End top text styling */
+
+/* Container voor docenten links styling */
+.docenten-links {
+    margin: 5rem;
+}
+/* Container voor docenten links styling */
+
+/* Link naar docent info styling */
+.docent-link {
+    background-color: #573393;
+    color: #fff;
+    text-decoration: none;
+    padding: 1rem 6rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+/* Link naar docent info styling */

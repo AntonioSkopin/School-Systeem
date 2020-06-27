@@ -1,0 +1,19 @@
+/* Start top text styling */
+.top-text {
+    text-align: center;
+    margin-top: 5rem;
+}
+/* End top text styling */
+
+.ziek-meldingen {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.docent-link {
+    background-color: #573393;
+    color: #fff;
+    width: max-content;
+    padding: 1rem 6rem;
+    border-radius: 10px;
+}
